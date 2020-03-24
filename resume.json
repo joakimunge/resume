@@ -6,27 +6,11 @@
     "email": "hello@joakimunge.se",
     "phone": "+46 73 827 48 61",
     "website": "http://unge.dev",
-    "summary": "Climber, software developer & design enthusiast. Currently listening to Purity Ring and playing Animal Crossing.",
+    "summary": "Climber, software developer & design enthusiast who lives and breathes form and function. I strive for code quality perfection and pixels as aligned as the stars. Currently listening to Purity Ring and playing Animal Crossing.",
     "location": {
       "city": "Stockholm",
       "countryCode": "SE"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "joakimunge"
-      },
-      {
-        "network": "Linkedin",
-        "username": "joakimunge",
-        "url": "https://www.linkedin.com/in/joakimunge/"
-      },
-      {
-        "network": "Github",
-        "username": "joakimunge",
-        "url": "https://github.com/joakimunge"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -36,40 +20,51 @@
       "startDate": "2018-10-01",
       "summary": "Prototyp is a code lab building digital products for businesses breaking new ground.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Built a unbiased recruitment robot together with Furhat Robotics and TNG. (https://www.tengai-unbiased.com)",
+        "Wrote a tool that with Machine Learning and Tensorflow was able to estimate scrum user stories based on it's attributes.",
+        "Held internal lectures on writing state machines in React and using hooks."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
+      "company": "King",
+      "position": "Graphic Designer",
+      "website": "http://king.com",
+      "startDate": "2015-12-01",
+      "endDate": "2017-08-11",
+      "summary": "Graphic Designer for King's in-house design agency, Brand Creative Studios.",
+      "highlights": [
+        "Branding and marketing for the launch of Candy Crush Friends Saga",
+        "Worked on marketing design and animation for a multitude of King's various titles."
+      ]
+    },
+    {
+      "company": "Stardoll",
+      "position": "Digital Experience Designer",
+      "website": "http://stardoll.com",
+      "startDate": "2012-06-01",
+      "endDate": "2015-11-31",
+      "summary": "Graphic Designer for King's in-house design agency, Brand Creative Studios.",
+      "highlights": [
+        "Storyboarded, animated and produced Stardoll's latest game trailers",
+        "Designed and launched a second-hand marketplace called Clique for the web, iOS and Android."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
+      "institution": "Chas Academy",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "startDate": "2017-08-11",
+      "endDate": "2019-05-25"
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Honor Award: Rookie of the Year",
+      "date": "2013-06-30",
+      "awarder": "Stardoll",
+      "summary": "Awarded to the top voted recruit of the year."
     }
   ],
   "publications": [
@@ -81,34 +76,28 @@
       "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
-    }
-  ],
   "languages": [
     {
-      "language": "English",
+      "language": "Swedish",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "language": "English",
+      "fluency": "Fluent"
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Halldór Andri Bjarnasson",
+      "reference": "I had the pleasure of managing Joakim in a close team of designers at Stardoll. Joakim is a talented creative thinker with a great eye for detail. I was very impressed with his ability to solve problems and how fast he was able to apply techinques that he just learned. It was also very impressive to watch how quickly he grew into his role. He is an excellent self-starter that has good instincts and a knack for knowing exactly what is needed to achive the project goals. I learned a lot from working with Joakim and hope to work with him again some day. Looking back, I am very proud of the work we did together."
+    },
+    {
+      "name": "William Sampson",
+      "reference": "I worked with Joakim for several years and during that time always found him to be a creative, humble and dedicated colleague. He is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. When asked to take on large scale projects–such as the production of a series of gameplay trailers–Joakim delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. I would highly recommend Joakim for his positive character as a member of any creative team."
+    },
+    {
+      "name": "Emma Westin",
+      "reference": "Joakim was by far the best intern we ever had at Norma. He learned new things incredibly fast, he is very artistic and has excellent design skills. He is also a very nice person to work with, he has a very positive attitude, a great sense of humour and gets along well with anyone. If you're looking for a fun, creative and very versatile designer, you've found him."
     }
   ]
 }
