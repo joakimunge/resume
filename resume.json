@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Joakim Unge",
-    "label": "Software Developer",
+    "label": "Software Engineer",
     "picture": "",
     "email": "hello@joakimunge.se",
     "phone": "+46 73 827 48 61",
     "website": "http://unge.dev",
-    "summary": "Climber, software developer & design enthusiast who lives and breathes form and function. I strive for code quality perfection and pixels as aligned as the stars. Currently listening to Purity Ring and playing Animal Crossing.",
+    "summary": "Climber, software developer & design enthusiast who lives and breathes form and function. I strive for code quality perfection and pixels as aligned as the stars.",
     "location": {
       "city": "Stockholm",
       "countryCode": "SE"
@@ -15,14 +15,15 @@
   "work": [
     {
       "company": "Prototyp",
-      "position": "Software Developer",
+      "position": "Software Engineer",
       "website": "http://prototyp.se",
       "startDate": "2018-10-01",
-      "summary": "Prototyp is a code lab building digital products for businesses breaking new ground.",
+      "summary": "Prototyp is a code lab building digital products for businesses breaking new ground. As a Technical Lead and Software Engineer I have helped clients from idea to launch on a wide array of projects.",
       "highlights": [
-        "Built a unbiased recruitment robot together with Furhat Robotics and TNG. (https://www.tengai-unbiased.com)",
-        "Wrote a tool that with Machine Learning and Tensorflow was able to estimate scrum user stories based on it's attributes.",
-        "Held internal lectures on writing state machines in React and using hooks."
+        "Produced a mobile Digital Audio Workstation and social media service in Flutter.",
+        "Led an agile team to build and deploy internal tools for managing and tracking processes for a large, financial institution.",
+        "Built a unbiased recruitment robot together with Furhat Robotics and TENGAI. (https://tengai.io)",
+        "Wrote a tool that with Machine Learning and Tensorflow was able to estimate scrum user stories based on it's attributes."
       ]
     },
     {
@@ -39,7 +40,7 @@
     },
     {
       "company": "Stardoll",
-      "position": "Digital Experience Designer",
+      "position": "Motion Designer & Digital Experience Designer",
       "website": "http://stardoll.com",
       "startDate": "2012-06-01",
       "endDate": "2015-11-31",
